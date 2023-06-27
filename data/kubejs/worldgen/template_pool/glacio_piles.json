@@ -1,0 +1,33 @@
+{
+    "name": "mechanica:glacio_piles",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "kubejs:steel_wreckage",
+          "projection": "terrain_matching",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "kubejs:coal_pile",
+          "projection": "terrain_matching",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "kubejs:log_pile",
+          "projection": "terrain_matching",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }
