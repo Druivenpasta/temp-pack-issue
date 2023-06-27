@@ -1,0 +1,22 @@
+{
+	"structures": [
+		{
+			"structure": "mechanica:log_pile",
+			"weight": 2
+		},
+        {
+			"structure": "mechanica:coal_pile",
+			"weight": 3
+		},
+        {
+			"structure": "mechanica:iron_wreckage",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"spacing": 4,
+		"separation": 2,
+		"salt": 1169284478
+	}
+}
